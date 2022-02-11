@@ -1,2 +1,3 @@
-# winnie-options
-Tezos Hedge-Option Contracts
+# Winnie Options
+
+Tezos hackhaton project to implement smart-contracts similar to option contracts for the stock market.
